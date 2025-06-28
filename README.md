@@ -46,8 +46,6 @@ pip install -r requirements.txt
 𝗥𝘂𝗻 𝘁𝗵𝗲 𝗮𝗽𝗽:
 python app.py
 
-𝗢𝗽𝗲𝗻 𝗶𝗻 𝗯𝗿𝗼𝘄𝘀𝗲𝗿:
-http://127.0.0.1:5000/predictdata
 
 𝗗𝗲𝗽𝗲𝗻𝗱𝗲𝗻𝗰𝗶𝗲𝘀
 Make sure requirements.txt contains:
